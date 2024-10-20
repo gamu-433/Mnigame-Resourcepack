@@ -1,0 +1,38 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/light_gray_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/other/exp_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "core:item/other/exp_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "core:item/ores/diamond_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "core:item/ores/metal_ingot"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "core:item/other/coin/fising"
+        }
+    ]
+}

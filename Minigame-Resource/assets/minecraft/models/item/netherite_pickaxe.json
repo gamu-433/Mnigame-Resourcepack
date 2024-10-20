@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/tools/gemnite/pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "core:item/tools/gemenite/pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "core:item/tools/jouenite/pickaxe"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "core:item/tools/darknite/pickaxe"
+        }
+    ]
+}

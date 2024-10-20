@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/heart_of_the_sea"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/other/coin/vote"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "railway:item/other/kokoro"
+        }
+        ,
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "core:item/other/anniversary_coin"
+        }
+    ]
+}

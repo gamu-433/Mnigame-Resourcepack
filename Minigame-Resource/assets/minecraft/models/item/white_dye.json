@@ -1,0 +1,56 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/white_dye"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/materials/flask/red"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "core:item/materials/flask/blue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "core:item/materials/flask/green"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "core:item/foods/seasonings/salt_pack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "core:item/materials/other/plastic"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "core:item/foods/drinks/cup_empty"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "core:item/other/cat_ears"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "core:item/foods/rice/rice"
+        }
+    ]
+}

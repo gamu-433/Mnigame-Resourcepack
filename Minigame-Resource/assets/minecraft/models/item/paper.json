@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+      {
+          "predicate": {
+              "custom_model_data": 1
+          },
+          "model": "railway:item/other/postcard"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 2
+        },
+        "model": "core:item/other/smart_phone"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 3
+        },
+        "model": "core:item/other/ticket/ticket_ore"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 4
+        },
+        "model": "core:item/other/ticket/ticket_gacha_red"
+      }
+  ]
+}

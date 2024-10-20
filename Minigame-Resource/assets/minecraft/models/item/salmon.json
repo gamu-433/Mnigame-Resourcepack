@@ -1,0 +1,32 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/salmon"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/foods/fish/outstanding_fish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "core:item/foods/fish/grunt_fish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "core:item/foods/fish/japanese_spanish_mackerel_fish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "core:item/foods/fish/glitter_eel_fish"
+        }
+    ]
+}

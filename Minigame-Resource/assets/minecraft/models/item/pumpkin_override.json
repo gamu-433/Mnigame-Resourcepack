@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "guns:misc/pumpkin_override_scope",
+    "side": "guns:misc/pumpkin_override_empty",
+    "top": "guns:misc/pumpkin_override_empty"
+  }
+}

@@ -1,0 +1,56 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/other/exp_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "core:item/other/coin/ability/night_vision"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "core:item/other/coin/ability/fire_resistance"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "core:item/other/coin/ability/strength"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "core:item/other/coin/ability/haste"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "core:item/tools/other/magic_wand"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "core:item/foods/drinks/cup_orange_juice"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "railway:item/other/birch_figurine"
+        }
+    ]
+}

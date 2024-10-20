@@ -1,0 +1,44 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "core:item/weapons/other/black_naginata_sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "core:item/weapons/gemnite/sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "core:item/weapons/gemenite/sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "core:item/weapons/jouenite/sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "core:item/weapons/darknite/sword"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "core:item/weapons/other/kousitu_tantou"
+        }
+    ]
+}
