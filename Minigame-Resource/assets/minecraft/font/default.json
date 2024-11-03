@@ -56,7 +56,7 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/servers/lobby.png",
+            "file": "core:textures/icons/servers/lobby.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -65,7 +65,7 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/servers/skyblock.png",
+            "file": "core:textures/icons/servers/skyblock.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -74,7 +74,7 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/roles/admin.png",
+            "file": "core:textures/icons/roles/admin.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -83,7 +83,7 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/roles/operator.png",
+            "file": "core:textures/icons/roles/operator.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -92,7 +92,7 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/roles/staff.png",
+            "file": "core:textures/icons/roles/staff.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -101,7 +101,7 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/roles/builder.png",
+            "file": "core:textures/icons/roles/builder.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -110,7 +110,7 @@
         },
         {
             "type": "bitmap",
-            "file": "common:ui/icons/roles/helper.png",
+            "file": "core:textures/icons/roles/helper.png",
             "ascent": 7,
             "height": 7,
             "chars": [
