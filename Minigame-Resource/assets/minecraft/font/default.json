@@ -71,6 +71,15 @@
             "chars": [
                 "\uEA01"
             ]
+        },   
+        {
+            "type": "bitmap",
+            "file": "core:icons/servers/minigame.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uEA02"
+            ]
         },
         {
             "type": "bitmap",
