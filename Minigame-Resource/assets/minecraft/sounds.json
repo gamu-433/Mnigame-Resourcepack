@@ -31,6 +31,14 @@
             }
         ]
     },
+    "custom.event_bgm2": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "bgm/event_bgmv3"
+            }
+        ]
+    },
     "custom.error": {
         "category": "master",
         "sounds": [
