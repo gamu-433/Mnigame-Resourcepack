@@ -1,4 +1,27 @@
-{
+{    "custom.quiz_1": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/quiz_1"
+            }
+        ]
+    },
+    "custom.quiz_2": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/quiz_2"
+            }
+        ]
+    },
+    "custom.quiz_3": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "sound_effects/quiz_3"
+            }
+        ]
+    },
     "custom.bonus": {
         "category": "master",
         "sounds": [
